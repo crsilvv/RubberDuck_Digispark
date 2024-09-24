@@ -28,7 +28,8 @@ Após a instalação da placa, faça esse caminho e selecione ela para começar 
 ![alt text](<img/Screenshot_3.png>)
 
 
-Após tudo isso, sempre coloque esses dois include no começo do seu script:
+Após tudo isso, sempre coloque esses dois include no começo do seu script
+(sempre deixe o arquivo DigiKeyboardPtBr.h dentro da pasta do seu script):
 ![alt text](<img/Screenshot_4.png>)
 
 
