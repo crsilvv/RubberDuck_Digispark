@@ -7,6 +7,7 @@
 ### Configurar o RubberDuck:
 Baixe a IDE do Arduino aqui:
     https://www.arduino.cc/en/software
+
 Baixe e Instale os Drivers do Digispark aqui:
     https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip
 
