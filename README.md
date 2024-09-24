@@ -8,7 +8,7 @@
 Baixe a IDE do Arduino aqui:
     https://www.arduino.cc/en/software
     
-https://github.com/cosmosredshiftsete/RubberDuck_Digispark/blob/main/img/Screenshot_1.png
+ /img/Screenshot_1.png
 https://github.com/cosmosredshiftsete/RubberDuck_Digispark/blob/main/img/Screenshot_2.png
 https://github.com/cosmosredshiftsete/RubberDuck_Digispark/blob/main/img/Screenshot_3.png
 Ferramenta > Placa > Gerenciador de Placas
