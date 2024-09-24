@@ -8,9 +8,9 @@
 Baixe a IDE do Arduino aqui:
     https://www.arduino.cc/en/software
     
- /img/Screenshot_1.png
-https://github.com/cosmosredshiftsete/RubberDuck_Digispark/blob/main/img/Screenshot_2.png
-https://github.com/cosmosredshiftsete/RubberDuck_Digispark/blob/main/img/Screenshot_3.png
+![alt text](<img/Screenshot_1.png>)
+![alt text](<img/Screenshot_2.png>)
+![alt text](<img/Screenshot_3.png>)
 Ferramenta > Placa > Gerenciador de Placas
 
 #### Url de Configuração do Digispark:
