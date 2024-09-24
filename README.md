@@ -7,11 +7,14 @@
 ### Configurar o "Pendrive Hacker":
 Baixe a IDE do Arduino aqui:
     https://www.arduino.cc/en/software
-    
+*** (role a pagina para baixo e baixe o Arduino Legacy IDE (1.8.X) (é uma versão com menos bug's))
+
+Após instalar
 ![alt text](<img/Screenshot_1.png>)
+Ferramenta > Placa > Gerenciador de Placas:
 ![alt text](<img/Screenshot_2.png>)
 ![alt text](<img/Screenshot_3.png>)
-Ferramenta > Placa > Gerenciador de Placas
+
 
 #### Url de Configuração do Digispark:
     https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json
